@@ -14,3 +14,7 @@ The `ebpf-playbook` contains user space BPF-based tools.
 
 The `databases-playbook` contains database-related playbooks to install and
 configure.
+
+## DB Benchmarks Playbook
+
+The `dbbenchmarks-playbook` contains benchmarks playbooks for databases.
